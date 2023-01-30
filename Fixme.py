@@ -30,7 +30,7 @@ def evens(n):
 def threes(n):
     '''
     Returns a list of all numbers from 0 to n inclusive that contain
-    the digit 3.
+    the digit 3
 
     >>> threes(2)
     []
